@@ -1,2 +1,4 @@
+PIN = 12345
+API-Key = afddfafasdfsdfsdfsfss32432
 User-agent: *
 Disallow: /
